@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/movies-and-series-info/static/css/main.c79d75ab.chunk.css",
+    "main.js": "/movies-and-series-info/static/js/main.066ccb34.chunk.js",
+    "main.js.map": "/movies-and-series-info/static/js/main.066ccb34.chunk.js.map",
+    "runtime-main.js": "/movies-and-series-info/static/js/runtime-main.eb87d4b4.js",
+    "runtime-main.js.map": "/movies-and-series-info/static/js/runtime-main.eb87d4b4.js.map",
+    "static/css/2.c0ead9d2.chunk.css": "/movies-and-series-info/static/css/2.c0ead9d2.chunk.css",
+    "static/js/2.aaeb8c35.chunk.js": "/movies-and-series-info/static/js/2.aaeb8c35.chunk.js",
+    "static/js/2.aaeb8c35.chunk.js.map": "/movies-and-series-info/static/js/2.aaeb8c35.chunk.js.map",
+    "index.html": "/movies-and-series-info/index.html",
+    "precache-manifest.5478b26c6926be7be9818c237a094cb4.js": "/movies-and-series-info/precache-manifest.5478b26c6926be7be9818c237a094cb4.js",
+    "service-worker.js": "/movies-and-series-info/service-worker.js",
+    "static/css/2.c0ead9d2.chunk.css.map": "/movies-and-series-info/static/css/2.c0ead9d2.chunk.css.map",
+    "static/css/main.c79d75ab.chunk.css.map": "/movies-and-series-info/static/css/main.c79d75ab.chunk.css.map",
+    "static/js/2.aaeb8c35.chunk.js.LICENSE.txt": "/movies-and-series-info/static/js/2.aaeb8c35.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/movies-and-series-info/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/spinner.gif": "/movies-and-series-info/static/media/spinner.bd0201f1.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb87d4b4.js",
+    "static/css/2.c0ead9d2.chunk.css",
+    "static/js/2.aaeb8c35.chunk.js",
+    "static/css/main.c79d75ab.chunk.css",
+    "static/js/main.066ccb34.chunk.js"
+  ]
+}
